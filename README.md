@@ -2,15 +2,18 @@
 PigTimer is a timer for ramen, and the timer uses pigs to adjust set time.
 
 
+
 ## Demo movie
 [YouTube](https://youtu.be/Z8DOZ3PvtQU)
+
 
 
 ## Programming language
 Processing 2.2.1
 
 
-## モード切り替え
+
+## Change mode
 
 モードはキーボードの1〜4を押すと切り替え可能
 * mode=0 標準画面（何もできません）
