@@ -2,13 +2,11 @@
 
 ## Description
 PigTimer is a timer for ramen, and the timer uses pigs to adjust set time  
+[YouTube動画](https://youtu.be/Z8DOZ3PvtQU)  
 
 ## Requirement
 * Processing ver2.2.1
 * Processing Library Minim
-
-## Features
-[YouTube動画](https://youtu.be/Z8DOZ3PvtQU)  
 
 ## Usage
 
